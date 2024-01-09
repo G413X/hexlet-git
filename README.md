@@ -1,3 +1,1 @@
-Hello, Hexlet!
-
-Let's bring some more stuff herein.
+Hello, Hexlet! How are you?
