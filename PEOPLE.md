@@ -1,0 +1,2 @@
+Haskell Curry
+Linus Torvalds 
