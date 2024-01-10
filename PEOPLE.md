@@ -1,5 +1,4 @@
-Haskell Curry
-Linus Torvalds 
+Haskell Curry 
 Andrew Tannenbaum
 Herbert Shildt
 
